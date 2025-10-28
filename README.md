@@ -1,2 +1,2 @@
 # ISO-IEC-27001-2022-Implementation
-Participated in a team project simulating ISO/IEC 27001:2022 implementation
+This repository features a personally developed, ready-to-use ISO/IEC 27001:2022 implementation toolkit, designed to assist organizations in efficiently establishing and maintaining an Information Security Management System (ISMS). The toolkit includes customizable templates, checklists, and guidance documents aligned with ISO 27001 requirements. Additionally, it reflects my group participation in an ISO/IEC 27001:2022 implementation project, where we conducted a gap analysis and collaboratively developed ISMS documentation such as policies, risk register, risk treatment plan, and Statement of Applicability, along with a strategic compliance roadmap.
